@@ -1,0 +1,15 @@
+GraphicalUserInterface$1.class
+GraphicalUserInterface$2.class
+TextProcessor.class
+UserInterface.class
+SearchResult.class
+Searcher.class
+InMemoryIndexer.class
+SimpleTextProcessor.class
+DocumentFrequency.class
+Main.class
+DirectoryFileReader.class
+GraphicalUserInterface.class
+FrequencyBasedSearcher.class
+Indexer.class
+FileReader.class
