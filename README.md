@@ -122,16 +122,6 @@ Enter keywords to retrieve matching files ranked by relevance.
 
 ---
 
-## 👨‍💻 Author
 
-**Raj Budhathoki**  
-Computer Science @ Youngstown State University  
-
-- GitHub: https://github.com/Razz0147  
-- LinkedIn: https://www.linkedin.com/in/raj-budhathoki-0871392a2/  
-
----
-
-## 📜 License
 
 This project is licensed under the MIT License.
